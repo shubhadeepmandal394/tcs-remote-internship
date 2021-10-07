@@ -5,7 +5,7 @@ TCS iON RIO-45: Digitization of Attendance Management System - Application Devel
 ### Project Objective
 
 ```
-The objective of this project is to develop mobile application for attendance management system for students
+The objective of this project is to develop a mobile application for attendance management for students
 ```
 
 ### Project Guidelines
