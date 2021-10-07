@@ -4,10 +4,13 @@ TCS iON RIO-45: Digitization of Attendance Management System - Application Devel
 
 ### Project Objective
 
+```
 The objective of this project is to develop mobile application for attendance management system for students
+```
 
 ### Project Guidelines
 
+```
 Many schools in india are still capturing sttendance records of students manually.
 
 - Identify the atendance details that school would like to capture for each student in the class
@@ -16,11 +19,14 @@ Many schools in india are still capturing sttendance records of students manuall
 - The sample apps available on Appsheet cloud platform are fully customizable
 - Connect your data to Appsheet to create a mobile app
 - Refine your app to present your required data with different statistics
+```
 
 ### Project Outcome
 
+```
 1. Student's details that school would like to record as attendance
 2. Mobile application for attendance management
+```
 
 ### Important Links
 
