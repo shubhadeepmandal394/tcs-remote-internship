@@ -28,6 +28,12 @@ Many schools in india are still capturing sttendance records of students manuall
 2. Mobile application for attendance management
 ```
 
+### Faculty Feedback
+
+<p align="center">
+  <kbd><img src="https://github.com/shubhadeepmandal394/tcs-remote-internship/blob/main/Project%20Report/Faculty%20Feedback.png" width="1000" height="300"></kbd>
+</p>
+
 ### Important Links
 
 - Run the app directly in your Browser: [Browser Link](https://www.appsheet.com/start/fba0d88e-f49e-4d6b-b8f1-b5d149cf607d)
@@ -38,4 +44,4 @@ Many schools in india are still capturing sttendance records of students manuall
 
 <hr>
 
-If I was of any help then consider [buying me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
+If it was of any help then consider [buying me a coffee](https://www.buymeacoffee.com/shubhadeep394) ☕😉
